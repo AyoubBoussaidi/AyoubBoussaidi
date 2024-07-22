@@ -2,7 +2,7 @@
 
 # Hello, I'm Ayoub BOUSSAIDI 👋
 
-![Profile Banner](https://github.com/AyoubBoussaidi/AyoubBoussaidi/edit/main/about-pic.jpeg)
+![Profile Banner](https://github.com/AyoubBoussaidi/AyoubBoussaidi/main/about-pic.jpeg)
 
 ## About Me
 
