@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello, I'm Ayoub BOUSSAIDI 👋
+# Hi there, I'm Ayoub BOUSSAIDI 👋
 
 <img src="https://raw.githubusercontent.com/AyoubBoussaidi/AyoubBoussaidi/main/about-pic.jpeg" alt="Profile Banner" width="200" height="200">
 
