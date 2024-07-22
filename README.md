@@ -2,8 +2,7 @@
 
 # Hello, I'm Ayoub BOUSSAIDI 👋
 
-![Profile Banner](https://github.com/AyoubBoussaidi/AyoubBoussaidi/main/about-pic.jpeg)
-
+![Profile Banner](https://raw.githubusercontent.com/AyoubBoussaidi/AyoubBoussaidi/main/about-pic.jpeg)
 ## About Me
 
 I'm a passionate developer with expertise in full-stack web development. I love working on innovative projects and sharing my knowledge with the community.
