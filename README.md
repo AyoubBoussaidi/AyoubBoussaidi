@@ -19,7 +19,7 @@ I'm a passionate developer with expertise in full-stack web development. I love 
 
 ## Connect with Me
 
-[![instagram](https://img.shields.io/instagram/follow/boussaidi.ayoub?style=social)](https://instagram.com/boussaidi.ayoub)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/boussaidi.ayoub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayoub-boussaidi-acc/)
 [![GitHub](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/AyoubBoussaidi)
 
