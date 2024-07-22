@@ -8,11 +8,9 @@
 
 I'm a passionate developer with expertise in full-stack web development. I love working on innovative projects and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on a platform named SoftyFlow
- <a href="https://www.softyflow.io/" target="_blank">
+- 🔭 I’m currently working on a platform named SoftyFlow, see : <a href="https://www.softyflow.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/AyoubBoussaidi/AyoubBoussaidi/main/téléchargement.png" alt="Profile Banner" width="20" height="20">
 </a>
-
 - 🌱 I’m currently learning React Js 
 - 💬 Ask me about
   - JavaScript and modern frontend frameworks (React, Vue)
