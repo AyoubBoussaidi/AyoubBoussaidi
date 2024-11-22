@@ -6,10 +6,6 @@
 
 I'm a passionate developer with expertise in full-stack web development. I love working on innovative projects and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on a platform named SoftyFlow, see : <a href="https://www.softyflow.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/AyoubBoussaidi/AyoubBoussaidi/main/téléchargement.png" alt="Profile Banner" width="20" height="20">
-</a>
-
 - 🌱 I’m currently learning React Js 
 - 💬 Ask me about
   - JavaScript and modern frontend frameworks (React, Vue)
@@ -26,8 +22,8 @@ I'm a passionate developer with expertise in full-stack web development. I love 
 
 ## My Projects
 
-- [Project 1](https://github.com/AyoubBoussaidi/Drag-Drop-FrontEnd): FrontEnd of a web application for building user interfaces and rendering them
-- [Project 2](https://github.com/AyoubBoussaidi/Drag-Drop-BackEnd): BackEnd of a drag and drop web application for building user interfaces and rendering them
+- [Project 1](https://github.com/AyoubBoussaidi/Drag-Drop-FrontEnd): FrontEnd of a web application for building user interfaces 
+- [Project 2](https://github.com/AyoubBoussaidi/Drag-Drop-BackEnd): BackEnd of a drag and drop web application for building user interfaces
 
 
 ## GitHub Stats
